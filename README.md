@@ -1,1 +1,1 @@
-# App for badminton players shuffling
+# App for badminton players shuffling.
